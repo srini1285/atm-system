@@ -1,0 +1,31 @@
+# Ignore Gradle and build directories
+.gradle/
+build/
+bin/
+out/
+dist/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.settings/
+.classpath
+.project
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
